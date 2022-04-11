@@ -1,7 +1,4 @@
 # Red-Wings-Blood-Bank-Management-System
-PHP
-<br>
-<br>
 <br>
 <br>
 #### Contributors
