@@ -3,12 +3,12 @@
 <br>
 ### Contributors
 <br>
-<a href="https://github.com/bvssatwika">
+<a href="https://github.com/Shweta2762">
   Shweta2762
   </a>
   <br>
   
-<a href="https://github.com/Shweta2762">
+<a href="https://github.com/bvssatwika">
   bvssatwika
   </a>
   <br>
